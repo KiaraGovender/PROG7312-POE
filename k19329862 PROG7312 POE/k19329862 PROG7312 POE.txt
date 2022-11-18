@@ -1,0 +1,16 @@
+# PROG7312_POE_19329862
+1. When the program stats, the user needs to click on the "Finding Call Numbers' button.
+2. The program will then load data from the textfile. The path of this textfile will
+	need to be changed, depending on the user's device.
+3. A random, third level entry description will be displayed on the form.
+4. Four different first level options, inculding the correct answer, will be displaued
+	ascending order, in the buttons under the label.
+5. If the user chooses the correct answer, a congratulatory message will be displayed
+	and 10 points will be added to the users total score.
+	The next level of enteries will be shown.
+6. If the user gets this correct as well, anohter 10 points will be added to their score.
+	A new round will start.
+7. If, at any time, the user gets an answer wrong, the entire game is reset and the user
+	try again.
+8. The user can exit by clicking on the 'EXIT' button, which will reset all data and take
+	the user back to the main form.

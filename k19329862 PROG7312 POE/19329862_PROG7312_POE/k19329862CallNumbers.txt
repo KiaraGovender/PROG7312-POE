@@ -1,0 +1,160 @@
+!000 Generalities 
+@010 Bibliographies 
+011-Bibliographies
+012-Bibliographies of individuals
+013-Bibliographies of works by specific classes of authors
+014-Of anonymous & pseudonymous works
+015-Bibliographies of works from specific places
+@050 Magazines, journals & serials
+051-Serials in American English
+052-Serials in English
+053-Serials in other Germanic languages
+054-Serials in French, Occitan & Catalan
+055-In Italian, Romanian & related languages
+!100 Philosophy & psychology
+@100 Philosophy
+101-Theory of philosophy
+102-Miscellany
+103-Dictionaries & encyclopaedias
+105-Serial publications
+106-Organizations & management
+@140 Philosophical schools of thought
+141-Idealism & related systems
+142-Critical philosophies
+143-Bergsonism & intuitionism
+144-Humanism & related systems
+145-Sensationalism
+@170 Ethics
+171-Ethical systems
+172-Political ethics
+173-Ethics of family relationships
+174-Occupational ethics
+175-Ethics of recreation & leisure
+!200 Religion
+@210 Philosophy & theory of religion
+211-Concepts of God
+212-Existence, knowability & attributes of God
+213-Creation
+214-Theodicy
+215-Science & religion
+@220 The Bible
+221-Old Testament (Tanakh)
+222-Historical books of Old Testament
+223-Poetic books of Old Testament
+224-Prophetic books of Old Testament
+225-New Testament
+!300 Social sciences
+@340 Law
+341-Law of nations
+342-Constitutional & administrative law
+343-Military, tax, trade & industrial law
+344-Labour, social, education & cultural law
+345-Criminal law
+@370 Education
+371-Schools & their activities; special education
+372-Elementary education
+373-Secondary education
+374-Adult education
+375-Curricula
+!400 Language
+@410 Linguistics
+411-Writing systems
+412-Etymology
+413-Dictionaries
+414-Phonology & phonetics
+415-Grammar
+@420 English & Old English languages
+421-English writing system & phonology
+422-English etymology
+423-English dictionaries
+425-English grammar
+427-English language variations
+!500 Natural sciences & mathematics
+@520 Astronomy
+521-Celestial mechanics
+522-Techniques, equipment & materials
+523-Specific celestial bodies & phenomena
+525-Earth (Astronomical geography)
+526 Mathematical geography
+@530 Physics
+531-Classical mechanics; solid mechanics
+532-Fluid mechanics; liquid mechanics
+533-Gas mechanics
+534-Sound & related vibrations
+535-Light & infrared & ultraviolet phenomena
+!600 Technology (Applied sciences)
+@620 Engineering
+621-Applied physics 
+622-Mining & related operations 
+623-Military & nautical engineering 
+624-Civil engineering 
+625-Engineering of railroads & roads
+@660 Chemical engineering
+661-Industrial chemicals 
+662-Explosives, fuels & related products 
+663 Beverage technology 
+664-Food technology 
+665-Industrial oils, fats, waxes & gases 
+666-Ceramic & allied technologies 
+667-Cleaning, color & coating technologies 
+668-Technology of other organic products 
+669-Metallurgy
+!700 The arts
+@740 Drawing & decorative arts
+741-Drawing & drawings 
+742-Perspective 
+743-Drawing & drawings by subject 
+745-Decorative arts
+746-Textile arts
+@750 Painting
+751-Techniques, equipment, materials & forms 
+752-Colour 
+753-Symbolism, allegory, mythology & legend 
+754-Genre paintings 
+755-Religion
+@760 Graphic arts
+763 Lithographic processes 
+764-Chromolithography & serigraphy 
+765-Metal engraving 
+766-Mezzotinting, aquatinting & related processes 
+767-Etching & drypoint
+!800 Literature & rhetoric
+@810 American literature in English
+811-American poetry in English 
+812-American drama in English 
+813-American fiction in English 
+814-American essays in English 
+815-American speeches in English
+@820 English & Old English literatures
+821-English poetry 
+822-English drama 
+823-English fiction 
+824-English essays 
+825-English speeches
+@880 Classical & modern Greek literatures
+881-Classical Greek poetry 
+882-Classical Greek dramatic poetry & drama 
+883-Classical Greek epic poetry & fiction 
+884-Classical Greek lyric poetry 
+885-Classical Greek speeches
+!900 Geography & history
+@930 History of ancient world (to ca. 499)
+931-China to 420 
+932-Egypt to 640 
+933-Palestine to 70 
+934-India to 647 
+935-Mesopotamia & Iranian Plateau to 637
+@940 History of Europe
+941-British Isles 
+942-England & Wales 
+943-Central Europe; Germany 
+944-France & Monaco 
+945 Italian Peninsula & adjacent islands
+@950 History of Asia
+951-China & adjacent areas 
+952-Japan 
+953-Arabian Peninsula & adjacent areas 
+954-South Asia; India 955 Iran 956 Middle East (Near East) 
+957-Siberia (Asiatic Russia) 
+958-Central Asia 
+959-Southeast Asia
